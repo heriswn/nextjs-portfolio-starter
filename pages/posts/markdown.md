@@ -8,7 +8,7 @@ author: You
 
 # Markdown Examples
 
-![test](/images/default.png)
+![Default](/images/default.png)
 
 ## h2 Heading
 
