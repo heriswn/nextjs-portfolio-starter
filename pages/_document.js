@@ -4,7 +4,7 @@ export default function Document() {
   const meta = {
     title: 'Heri Setiawan',
     description: 'Opini.',
-    image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
+    image: 'https://herisetiawan.vercel.app/favicon/heriswn.jpg'
   }
 
   return (
