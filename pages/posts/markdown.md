@@ -8,6 +8,8 @@ author: You
 
 # Markdown Examples
 
+![test](/images/default.png)
+
 ## h2 Heading
 
 ### h3 Heading
