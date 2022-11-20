@@ -21,6 +21,9 @@ export default function Document() {
         <meta name="twitter:title" content={meta.title} />
         <meta name="twitter:description" content={meta.description} />
         <meta name="twitter:image" content={meta.image} />
+        <meta HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE" />
+        <meta HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE" />
+        <meta HTTP-EQUIV="EXPIRES" CONTENT="Mon, 22 Oct 2045 11:12:01 GMT" />
       </Head>
       <body>
         <Main />
